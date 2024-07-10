@@ -1,4 +1,3 @@
-```markdown
 # Excel DB with Express Gateway API
 
 This repository contains the setup for an Express Gateway API that proxies requests to a backend Excel API service.
@@ -92,5 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Express Gateway community for providing a powerful API gateway solution.
-```
 
